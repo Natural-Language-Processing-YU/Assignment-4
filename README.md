@@ -6,6 +6,8 @@ Assignment \#3
 | Points     | 200                                                   |
 
 Contents
-Part I. Transformer and Attention Tutorial
-Part II. BERT Pre-trained Tutorial
-Part III. Using Transformers for English Classification
+<ui>
+  <li>Part I. Transformer and Attention Tutorial</li>
+  <li>Part II. BERT Pre-trained Tutorial</li>
+  <li>Part III. Using Transformers for English Classification</li>
+</ui>
