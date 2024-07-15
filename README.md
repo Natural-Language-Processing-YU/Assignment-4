@@ -1,6 +1,5 @@
 Assignment \#4
 
-                              |
 
 Contents
 <ui>
